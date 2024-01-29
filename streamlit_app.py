@@ -108,5 +108,5 @@ if st.sidebar.button('Predict Winner'):
 
 
 # Display an image from a URL
-image_url = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8QoP4kp_b6R-aU0cKVt7uj3cIR7YWE_CVg&usqp=CAU'
+image_url = 'https://crickettimes.com/wp-content/uploads/2023/08/ICC-ODI-World-Cup-2023-Updated-Schedule.webp'
 st.image(image_url,  use_column_width=True)
