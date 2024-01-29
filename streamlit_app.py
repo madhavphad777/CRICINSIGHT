@@ -13,7 +13,7 @@ def set_background(url):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Corrected URL of your background image hosted online
-background_image_url = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8QoP4kp_b6R-aU0cKVt7uj3cIR7YWE_CVg&usqp=CAU'
+background_image_url = 'https://crickettimes.com/wp-content/uploads/2023/08/ICC-ODI-World-Cup-2023-Updated-Schedule.webp'
 
 # Call the function to set background image from the URL
 set_background(background_image_url)
