@@ -108,5 +108,5 @@ if st.sidebar.button('Predict Winner'):
 
 
 # Display an image from a URL
-image_url = 'https://ipl.ae/wp-content/uploads/2023/06/ICC-Word-Cuo-Fixtures.webp'
+image_url = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8QoP4kp_b6R-aU0cKVt7uj3cIR7YWE_CVg&usqp=CAU'
 st.image(image_url,  use_column_width=True)
